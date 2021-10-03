@@ -1,0 +1,38 @@
+
+        h1{
+            color:blue;
+            font-family:cursive;
+            background-color:black;
+
+        }
+        
+        table,th,td{
+            border:1px solid white;
+            
+
+        }
+        table{
+            width:100%;
+        }
+        body{
+            background-color:gray;
+        }
+        
+        p{
+         color:green;
+         }
+
+         #color{
+             color: teal;
+         }
+         #edu{
+             color: tomato;
+             font-family: cursive;
+         }
+         .personal{
+             color: violet;
+         }
+         .pro{
+             color: green;
+         }
+     
